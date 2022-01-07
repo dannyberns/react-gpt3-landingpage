@@ -5,7 +5,7 @@ Beautiful, fully responsive landing page built with React using one of AR Shakir
 
 # Links
 
-https://react-comfysloth-ecommerce.netlify.app/
+https://react-gpt3.netlify.app/
 
 
 ## Screenshots
