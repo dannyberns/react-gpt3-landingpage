@@ -1,6 +1,6 @@
 # GPT-3
 
-Beautiful landing page built with React using one of AR Shakir's Figma designs.
+Beautiful, fully responsive landing page built with React using one of AR Shakir's Figma designs.
 
 
 # Links
